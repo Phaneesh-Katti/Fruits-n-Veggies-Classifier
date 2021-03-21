@@ -1,6 +1,8 @@
 # Fruits-n-Veggies-Classifier
-By: Dhruv Chawla
+By: Dhruv Chawla 
+
     Aaryansh Bhargavan
+
     Phaneesh R Katti
 A CNN model to classify given image input into a whooping 131 different classes of fruits and veggies
 
