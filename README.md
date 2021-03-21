@@ -1,5 +1,7 @@
 # Fruits-n-Veggies-Classifier
-By: Dhruv Chawla 
+Contributors
+
+    : Dhruv Chawla 
 
     Aaryansh Bhargavan
 
