@@ -18,4 +18,5 @@ We have used InceptionV3 Architecture for Transfer Learning, as well as Data Aug
 The 131 classes have been named in the pre-defined order and must not be changed
 Model is trained for 30 epochs and gives reasonably good accuracy
 
+Video presentation: https://drive.google.com/drive/u/0/folders/1pvuebms0wIzaXzCSbQfcJH11q9O9CwJT
 (Be sure to follow certain in script instructions to get the o/p)
